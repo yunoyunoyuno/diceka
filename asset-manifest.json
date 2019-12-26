@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diceka/static/css/main.0d3c0dfb.chunk.css",
+    "main.css": "/diceka/static/css/main.aee1ce8d.chunk.css",
     "main.js": "/diceka/static/js/main.a3b5e795.chunk.js",
     "main.js.map": "/diceka/static/js/main.a3b5e795.chunk.js.map",
     "runtime-main.js": "/diceka/static/js/runtime-main.b7e71812.js",
@@ -9,10 +9,10 @@
     "static/js/2.591fb7c7.chunk.js": "/diceka/static/js/2.591fb7c7.chunk.js",
     "static/js/2.591fb7c7.chunk.js.map": "/diceka/static/js/2.591fb7c7.chunk.js.map",
     "index.html": "/diceka/index.html",
-    "precache-manifest.6b0e469ce94aef7fbbf17f96e822f381.js": "/diceka/precache-manifest.6b0e469ce94aef7fbbf17f96e822f381.js",
+    "precache-manifest.c30f147b7316c991ddfa93d16c38fe39.js": "/diceka/precache-manifest.c30f147b7316c991ddfa93d16c38fe39.js",
     "service-worker.js": "/diceka/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/diceka/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.0d3c0dfb.chunk.css.map": "/diceka/static/css/main.0d3c0dfb.chunk.css.map",
+    "static/css/main.aee1ce8d.chunk.css.map": "/diceka/static/css/main.aee1ce8d.chunk.css.map",
     "static/js/2.591fb7c7.chunk.js.LICENSE": "/diceka/static/js/2.591fb7c7.chunk.js.LICENSE",
     "static/media/logo.png": "/diceka/static/media/logo.b61bab35.png",
     "static/media/math.jpg": "/diceka/static/media/math.5360fa44.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.b7e71812.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.591fb7c7.chunk.js",
-    "static/css/main.0d3c0dfb.chunk.css",
+    "static/css/main.aee1ce8d.chunk.css",
     "static/js/main.a3b5e795.chunk.js"
   ]
 }
