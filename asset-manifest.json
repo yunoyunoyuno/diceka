@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/diceka/static/css/main.fb757e24.chunk.css",
-    "main.js": "/diceka/static/js/main.740ff1f7.chunk.js",
-    "main.js.map": "/diceka/static/js/main.740ff1f7.chunk.js.map",
+    "main.js": "/diceka/static/js/main.e0ff3373.chunk.js",
+    "main.js.map": "/diceka/static/js/main.e0ff3373.chunk.js.map",
     "runtime-main.js": "/diceka/static/js/runtime-main.b7e71812.js",
     "runtime-main.js.map": "/diceka/static/js/runtime-main.b7e71812.js.map",
     "static/css/2.eb45ad44.chunk.css": "/diceka/static/css/2.eb45ad44.chunk.css",
     "static/js/2.591fb7c7.chunk.js": "/diceka/static/js/2.591fb7c7.chunk.js",
     "static/js/2.591fb7c7.chunk.js.map": "/diceka/static/js/2.591fb7c7.chunk.js.map",
     "index.html": "/diceka/index.html",
-    "precache-manifest.824f173ea171dfa81a83614e2a535834.js": "/diceka/precache-manifest.824f173ea171dfa81a83614e2a535834.js",
+    "precache-manifest.af73939eb991e14e0c1e758214b4498a.js": "/diceka/precache-manifest.af73939eb991e14e0c1e758214b4498a.js",
     "service-worker.js": "/diceka/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/diceka/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.fb757e24.chunk.css.map": "/diceka/static/css/main.fb757e24.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.591fb7c7.chunk.js",
     "static/css/main.fb757e24.chunk.css",
-    "static/js/main.740ff1f7.chunk.js"
+    "static/js/main.e0ff3373.chunk.js"
   ]
 }
