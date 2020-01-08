@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0b0a08ecc91b36ef4345b63b80b2ea3",
+    "revision": "e4e6e55cabc17509dc27ce1569d76de4",
     "url": "/diceka/index.html"
   },
   {
-    "revision": "7c932ebd61299d2087d4",
+    "revision": "ee2471ad81349152f488",
     "url": "/diceka/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "d1476ea834e8c3793f42",
+    "revision": "e808e303a8d29cde9c52",
     "url": "/diceka/static/css/main.bcb849c8.chunk.css"
   },
   {
-    "revision": "7c932ebd61299d2087d4",
-    "url": "/diceka/static/js/2.591fb7c7.chunk.js"
+    "revision": "ee2471ad81349152f488",
+    "url": "/diceka/static/js/2.c3eff974.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/diceka/static/js/2.591fb7c7.chunk.js.LICENSE"
+    "url": "/diceka/static/js/2.c3eff974.chunk.js.LICENSE"
   },
   {
-    "revision": "d1476ea834e8c3793f42",
-    "url": "/diceka/static/js/main.e564d00a.chunk.js"
+    "revision": "e808e303a8d29cde9c52",
+    "url": "/diceka/static/js/main.541d901e.chunk.js"
   },
   {
-    "revision": "58714e7646aeed752a71",
-    "url": "/diceka/static/js/runtime-main.b7e71812.js"
+    "revision": "a5fd4da4c4bac7362220",
+    "url": "/diceka/static/js/runtime-main.aaf5d6de.js"
   },
   {
     "revision": "b61bab359887250f9f1715f74681307e",
